@@ -1,0 +1,106 @@
+ *{
+    padding: 0px;
+    margin: 0px;}
+
+ body{
+ 	background: oldlace;
+    margin: auto;
+ }
+
+ header{
+    height: 70px;
+ 	background: cadetblue; 
+ }
+
+ #logo{
+    height: 70px;
+    width: 70px;
+    padding: 1px;
+    position: fixed;
+ }
+
+ #banner{
+    height: 70px;
+    color: black;
+    text-align: left;
+    font-family: Papyrus, fantasy;
+    position: fixed;
+    left: 70px;
+    padding: 15px;
+ }
+
+ nav{
+    height: 20px;
+    padding: 10px;
+ 	text-align: center;
+    background: #EAECEE;
+ }
+
+ #lista {
+    font-family:Papyrus, fantasy;
+    font-weight:bold;
+    font-size:17px;
+}
+
+.separador {
+    color:black;
+}
+
+#lista li {
+     display:inline;
+     padding-left:35px;
+     padding-right:35px;           
+}
+
+a {
+    color: #00695C;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00695C;
+    background-color:oldlace;
+}
+
+main{
+    height: 410px;
+    width: 1380px;
+    background: oldlace;
+}
+
+#lado_izquierdo{
+    height: 400px;
+    width: 390px;
+    padding: 5px;
+    float: left;
+    margin: 5px;
+    background: #EAECEE; 
+    text-align: center;
+    color: #00695C;
+    font-family: Papyrus, fantasy;
+}
+
+article{
+    height: 400px;
+    padding: 40px;
+	text-align: center;
+    font-family: Papyrus, fantasy;
+    color: #00695C;
+    font-size:20px;
+}
+
+table{
+    margin: auto;
+    left: 100px;
+    bottom: 50px;
+    padding: 40px;
+}
+
+footer{
+    height:60px;
+    text-align: center;
+    font-family: Helvitica, monospace;
+    padding: 15px;
+}
+
+ 
